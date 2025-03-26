@@ -1,70 +1,101 @@
-<!-- Page 1 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
-<!-- og url -->
-https://rorymccormick.ie/
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Manage landing page</title>
 
-<!-- Nav -->
-Rory mccormick
-Designer, Design Director
-Work
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+<body>
 
-<!-- Thumbnail -->
-Plastic ↳ Brand Identity, UI, UX, Exhibition Design, Print
+  Pricing
+  Product
+  About Us
+  Careers
+  Community
 
-Sentiem ↳ Brand Identity, UX,UI, Motion
+  Get Started
 
-Belstaff 100 Years ↳ Visual System
+  Bring everyone together to build better products.
 
-Olympic Handball Ireland ↳ Brand Identity
+  Manage makes it simple for software teams to plan day-to-day 
+  tasks while keeping the larger team goals in view.
 
-Soundcheck ↳ Brand Identity, UI, UX, Exhibition Design, Print
+  Get Started
 
-New Mark ↳ Brand Identity, UX, UI
+  What’s different about Manage?
 
-Unbanx ↳ Brand Identity, UX,UI
+  Manage provides all the functionality your team needs, without 
+  the complexity. Our software is tailor-made for modern digital 
+  product teams. 
 
-In Case of Emergency ↳ Brad Identity, Strategy, Exhibition Design, UX, UI
+  01
+  Track company-wide progress
+  See how your day-to-day tasks fit into the wider vision. Go from 
+  tracking progress at the milestone level all the way done to the 
+  smallest of details. Never lose sight of the bigger picture again.
 
-Altnua ↳ Brand Identity, Strategy, UX, UI
+  02
+  Advanced built-in reports
+  Set internal delivery estimates and track progress toward company 
+  goals. Our customisable dashboard helps you build out the reports 
+  you need to keep key stakeholders informed.
 
-Camán and Co. ↳ Brand identity, Strategy, UX, UI
+  03
+  Everything you need in one place
+  Stop jumping from one service to another to communicate, store files, 
+  track tasks and share documents. Manage offers an all-in-one team 
+  productivity solution.
 
-Doddl ↳ Brand Identity, UX,UI
+  What they’ve said
 
-Intimacy ↳ Brand Identity, UI, UX, Exhibition Design, Print
+  Anisha Li
+  “Manage has supercharged our team’s workflow. The ability to maintain 
+  visibility on larger milestones at all times keeps everyone motivated.”
 
-<!-- service -->
-Services
+  Ali Bravo
+  “We have been able to cancel so many other subscriptions since using 
+  Manage. There is no more cross-channel confusion and everyone is much 
+  more focused.”
 
-Art direction
-Brand Identity
-Campaign
-Digital / UI & UX
-Editorial design
-Motion design
-Exhibition design
-Wayfinding
+  Richard Watts
+  “Manage allows us to provide structure and process. It keeps us organized 
+  and focused. I can’t stop recommending them to everyone I talk to!”
 
-<!-- about me -->
-About me
+  Shanai Gough
+  “Their software allows us to track, manage and collaborate on our projects 
+  from anywhere. It keeps the whole team in-sync without being intrusive.”
 
-A multi-disciplinary Design Director based in Dublin with more than 15 years experience. I collaborate with other designers and creatives to shape and create brands, experiences and products. My work lies at the intersection of branding, UI, and product design, aiming to create immersive experiences and compelling brand narratives.
+  Get Started
 
-<!-- footer -->
+  Simplify how your team works today.
+  Get Started
 
-Opening hours
+  Home
+  Pricing
+  Products
+  About Us
+  Careers
+  Community
+  Privacy Policy
 
-Mon – Fri: 10:00 – 18:00
+  Updates in your inbox…
+  Go
 
-Contact
-rory@rorymccormick.ie
+  Copyright 2020. All Rights Reserved
 
-<!-- social link -->
-Socials
-
-Instagram
-
-LinkedIn
-
-<!-- cr -->
-Copyright © 2024 Rory McCormick
+  
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div>
+</body>
+</html>
